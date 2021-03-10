@@ -1,3 +1,3 @@
 # starbuscks
 
-Assim que pronto, farei um readme decente aqui rs... 
+Dá uma olhada no resultado: https://leon4rdoalves.github.io/starbucks/
